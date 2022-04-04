@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathZone
+  - enemy
+  - Spikeball
+  - Spikeball2
+  - Spikeball3
+  - PisoGatillo
+  - PisoGatillo2
+  - Spikeball5
+  - Spikeball4
+  - Escudo1
+  - Escudo2
+  - Escudo3
+  - Escudo4
+  - PisoGatillo3
+  - PisoGatillo4
+  - PisoGatillo5
+  - PisoGatillo6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Obstacles
+  - CarCollider
+  - SphereCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
